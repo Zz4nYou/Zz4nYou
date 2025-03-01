@@ -3,4 +3,7 @@
 Hi 👋, I'm Zz4nsYouu
 
 A passionate frontend developer from indonesia
+
 ![image](https://github.com/user-attachments/assets/55f8b895-4a6a-4283-8c18-a650bbf8baa1)
+
+📫 How to reach me : fauzanhealling12345@gmail.com
